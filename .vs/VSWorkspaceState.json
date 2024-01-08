@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\film-flare",
+    "\\film-flare\\film-flare",
+    "\\film-flare\\film-flare\\public",
+    "\\film-flare\\film-flare\\src",
+    "\\film-flare\\film-flare\\src\\views"
   ],
-  "SelectedNode": "\\C:\\Users\\kursa\\Source\\Repos\\Film_Flare",
+  "SelectedNode": "\\film-flare\\film-flare\\src\\views\\Login.jsx",
   "PreviewInSolutionExplorer": false
 }
