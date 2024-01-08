@@ -23,7 +23,7 @@ const Login = () => {
             firebaseNotification(error.code)
         }
     }
-    //deneme
+    //deneme2
     return (
         <div style={{width: '100%', height: '100vh'}}>
             <section style={{zIndex: 99}}>
